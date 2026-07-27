@@ -544,7 +544,7 @@
         </div>
 
         <div class="avatar-container" id="avatarBox">
-            <img id="profileImg" src="image/omarhanif1.jpg" alt="ওমর হানিফ">
+            <img id="profileImg" src="omarhanif1.jpg" alt="ওমর হানিফ">
         </div>
 
         <div class="contact-top-box">
